@@ -1,4 +1,4 @@
-# Blue Bootstrap ![Project CSS](https://img.shields.io/badge/project-CSS-red) ![BYOL](https://img.shields.io/badge/BYOD-Bring_Your_Own_Design-blue) ![Ver](https://img.shields.io/badge/ver-1.00-008500)
+# BlueBootstrap ![Project CSS](https://img.shields.io/badge/project-CSS-red) ![BYOL](https://img.shields.io/badge/BYOD-Bring_Your_Own_Design-blue) ![Ver](https://img.shields.io/badge/ver-1.00-008500)
 
 A personal grid-system CSS template with minimal footprint, for quick development.
 
@@ -24,15 +24,15 @@ This code was built for personal needs, including all needed code for future pro
 Basically open "index.html" and go test all templating examples. Most of 'em aren't usual (like the poll system), but some are (the Masonry-like gallery and the tabs).
 Do you find it useful? Feel free to write some entries to this README and expand this code to add more resources, while keeping the footprint low.
 
-## how to Use?
-
+## How to Use?
 Simply import "blue.bootstrap.grid.min.css" into your website, and start building your own layout.
+
 "blue.bootstrap.min.css" contains some extra basic layouts, like buttons, DIVs, menus, basic colors, text alignment, fixed/relative positioning etc.
 
 ## Licensing
 MIT License
 
-Copyright (c) 2024 BlueTainha (bluetainha.com)
+Copyright (c) 2024 BlueTainha Studio (bluetainha.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
