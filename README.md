@@ -1,12 +1,12 @@
-# Blue Bootstrap ![Project CSS](https://img.shields.io/badge/project-CSS-red) ![BYOL](https://img.shields.io/badge/BYOL-Bring_Your_Own_Layout-blue) ![Ver](https://img.shields.io/badge/ver-1.00-008500)
+# Blue Bootstrap ![Project CSS](https://img.shields.io/badge/project-CSS-red) ![BYOL](https://img.shields.io/badge/BYOD-Bring_Your_Own_Design-blue) ![Ver](https://img.shields.io/badge/ver-1.00-008500)
 
 A personal grid-system CSS template with minimal footprint, for quick development.
 
 ## Why?
 Twitter bootstrap is great, but it's very heavy for mobile-first applications. What if every site could be made with less than 10K of template code? Twitter Bootstrap has buttons, ribbons, checkboxes, form input styles... and all I needed was the grid system. So I was able to create a fully function 12-grid mobile-first system in just 4KB (see in "examples/grid-only.html". 
-This code was built for personal needs, including all needed code for future projects.
+This code was built for personal needs, including all needed code for future projects. And I want to increase this project to provide more and more layouts and components using the less code possible.
 
-( BYOL - BRING YOUR OWN LAYOUT! )
+( BYOD - BRING YOUR OWN DESIGN! )
 
 ## Resources
 * A file with just 4KB, you'll get a 12-grid resizable columns (which can be hidden on desktop/mobile)
