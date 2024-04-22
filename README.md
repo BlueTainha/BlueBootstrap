@@ -1,4 +1,5 @@
-# Blue Bootstrap
+# Blue Bootstrap ![Project CSS](https://img.shields.io/badge/project-CSS-red) ![BYOL](https://img.shields.io/badge/BYOL-Bring_Your_Own_Layout-blue) ![Ver](https://img.shields.io/badge/ver-1.00-008500)
+
 A personal grid-system CSS template with minimal footprint, for quick development.
 
 ## Why?
